@@ -52,6 +52,8 @@
 		19C8B58D2B445B4000EDAAC2 /* Learn_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8B58C2B445B4000EDAAC2 /* Learn_SwiftUITests.swift */; };
 		19C8B5972B445B4000EDAAC2 /* Learn_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8B5962B445B4000EDAAC2 /* Learn_SwiftUIUITests.swift */; };
 		19C8B5992B445B4000EDAAC2 /* Learn_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C8B5982B445B4000EDAAC2 /* Learn_SwiftUIUITestsLaunchTests.swift */; };
+		4D0B6BDD2B73396E00C4B9E6 /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0B6BDC2B73396E00C4B9E6 /* NavigationStackBootcamp.swift */; };
+		4D9D5B272B736F8400AC29C1 /* ResizableSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9D5B262B736F8400AC29C1 /* ResizableSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,6 +122,8 @@
 		19C8B5922B445B4000EDAAC2 /* Learn SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Learn SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		19C8B5962B445B4000EDAAC2 /* Learn_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		19C8B5982B445B4000EDAAC2 /* Learn_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4D0B6BDC2B73396E00C4B9E6 /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
+		4D9D5B262B736F8400AC29C1 /* ResizableSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,6 +216,8 @@
 				197F1D7B2B6FD00C00700534 /* ButtonStyleBootcamp.swift */,
 				197F1D7D2B6FD21D00700534 /* ListSwipeActionBootcamp.swift */,
 				197F1D7F2B6FD55D00700534 /* FocusStateBootcamp.swift */,
+				4D0B6BDC2B73396E00C4B9E6 /* NavigationStackBootcamp.swift */,
+				4D9D5B262B736F8400AC29C1 /* ResizableSheetBootcamp.swift */,
 			);
 			path = "Learn SwiftUI";
 			sourceTree = "<group>";
@@ -380,6 +386,7 @@
 				197F1D722B6F354E00700534 /* GestureBootcamp.swift in Sources */,
 				1904BEB82B5FE4C300F2E880 /* GridBootcamp.swift in Sources */,
 				197F1D7C2B6FD00C00700534 /* ButtonStyleBootcamp.swift in Sources */,
+				4D9D5B272B736F8400AC29C1 /* ResizableSheetBootcamp.swift in Sources */,
 				1904BEA32B5F5E4E00F2E880 /* ImageBootcamp.swift in Sources */,
 				1904BEAA2B5F888900F2E880 /* StackBootcamp.swift in Sources */,
 				191C17312B6E9B170081EE30 /* TabViewBootcamp.swift in Sources */,
@@ -387,6 +394,7 @@
 				191C17292B6E37650081EE30 /* ContextMenuBootcamp.swift in Sources */,
 				1904BEA82B5F63D300F2E880 /* BackgroundOverlayBootcamp.swift in Sources */,
 				19C8B57E2B445B3E00EDAAC2 /* ContentView.swift in Sources */,
+				4D0B6BDD2B73396E00C4B9E6 /* NavigationStackBootcamp.swift in Sources */,
 				1904BEA62B5F610E00F2E880 /* FrameBootcamp.swift in Sources */,
 				197F1D802B6FD55D00700534 /* FocusStateBootcamp.swift in Sources */,
 				197F1D782B6F966B00700534 /* AppStorageBootcamp.swift in Sources */,
