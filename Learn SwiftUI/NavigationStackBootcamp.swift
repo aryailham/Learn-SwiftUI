@@ -29,10 +29,10 @@ struct NavigationStackBootcamp: View {
 //                    }
                     .navigationTitle("Navigation Stack")
                     .navigationDestination(for: String.self) { fruit in
-                        SecondView(value: fruit)
+                        SecondNavView(value: fruit)
                     }
 //                    .navigationDestination(for: Int.self) { value in
-//                        SecondView(value: value)
+//                        SecondNavView(value: value)
 //                    }
                 }
             }
@@ -40,7 +40,7 @@ struct NavigationStackBootcamp: View {
     }
 }
 
-struct SecondView: View {
+struct SecondNavView: View {
     
     let value: String
     
